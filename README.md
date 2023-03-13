@@ -28,7 +28,7 @@ Me considero un desarrollador apasionado y estoy en constante aprendizaje. Me en
 <p>Puedes contactarme por LinkedIn, escribirme por correo electrónico, enviarme un mensaje por WhatsApp o incluso ver mi perfil de Github
 </p>
 <a href="https://www.linkedin.com/in/legal-brian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:legalbrian11@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:legal.brian@outlook.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://api.whatsapp.com/send?phone=541136853167" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/LegalBrian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
