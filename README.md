@@ -2,7 +2,7 @@
 
 ## ¿Quién soy?
 
-Mi nombre es Brian Legal, soy un Fullstack developer de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Buenos Aires, Argentina.</b>
+Mi nombre es Brian Legal, soy un Full Stack Web Developer de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Buenos Aires, Argentina.</b>
 Me considero un desarrollador apasionado y estoy en constante aprendizaje. Me encanta trabajar en proyectos desafiantes y siempre estoy buscando oportunidades para expandir mis habilidades y conocimientos. En mi tiempo libre, disfruto explorando nuevas tecnologías. Me apasiona la tecnología y siempre estoy listo para aprender y crecer como desarrollador
 
 ## Tech Skills
