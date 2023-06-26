@@ -12,7 +12,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-119EFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-119EFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Angular" src=" https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
   />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
