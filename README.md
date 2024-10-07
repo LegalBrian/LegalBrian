@@ -1,10 +1,12 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola! Mucho gusto, bienvenido/a a mi GitHub! </h1>
 
 ## ¿Quién soy?
-<p>Mi nombre es Brian Legal, soy un Full Stack Web Developer de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Buenos Aires, Argentina.</b></p>
-<p>Soy un joven y dedicado desarrollador con una pasión por aprender y mejorar continuamente. Con un conocimiento en tecnologías como JavaScript, React, Node.js, Express.js, React Native, entre otros.</p>
-<p>Además de mis habilidades técnicas, poseo una serie de habilidades blandas que complementan mis fortalezas en el desarrollo. Soy un colaborador efectivo en equipo, con una habilidad natural para trabajar en armonía con colegas de diferentes áreas y disciplinas. También destaco por mi capacidad de comunicación clara y efectiva.</p>
-<p>Soy una persona altamente adaptable y estoy siempre buscando nuevos desafíos y oportunidades de crecimiento. Busco unirme a una empresa dinámica y en crecimiento que me permita continuar mi desarrollo profesional y trabajar en proyectos desafiantes y gratificantes. Estoy ansioso por conectar y explorar nuevas oportunidades de crecimiento profesional.</p>
+<p>Mi nombre es Brian Legal, soy Frontend Developer de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Buenos Aires, Argentina.</b></p>
+<p>Soy un desarrollador Frontend con experiencia en desarrollo de aplicaciones utilizando tecnologías como React.js, React Native, Tailwind, entre otras.</p>
+<p>Me considero una persona altamente adaptable que siempre se encuentra en busqueda de nuevos desafíos y oportunidades de crecimiento profesional.</p>
+<p>Me apasiona crear diseños prácticos y funcionales, y disfruto llevar esos diseños a la realidad a través del desarrollo.</p>
+<p>Me apaciona aprender nuevas tecnologías y mejorar continuamente mis habilidades y conocimientos.</p>
+
 
 ## Tech Skills
 <p>
@@ -12,8 +14,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-119EFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-119EFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
-  />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -23,14 +23,8 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-316192?style=for-the-badge&logo=sequelize&logoColor=blue" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
-  />
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" 
-  />
-  <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" 
-  />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ## ¿Donde encontrarme?
