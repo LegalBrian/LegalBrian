@@ -2,11 +2,14 @@
 
 ## ¿Quién soy?
 <p>Mi nombre es Brian Legal, soy Frontend Developer de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Buenos Aires, Argentina.</b></p>
-<p>Soy un desarrollador Frontend con experiencia en desarrollo de aplicaciones utilizando tecnologías como React.js, React Native, Tailwind, entre otras.</p>
-<p>Me considero una persona altamente adaptable que siempre se encuentra en busqueda de nuevos desafíos y oportunidades de crecimiento profesional.</p>
-<p>Me apasiona crear diseños prácticos y funcionales, y disfruto llevar esos diseños a la realidad a través del desarrollo.</p>
-<p>Me apaciona aprender nuevas tecnologías y mejorar continuamente mis habilidades y conocimientos.</p>
+<p>👨‍💻 Desarrollador Full Stack con más de 2 años de experiencia construyendo aplicaciones modernas, eficientes y bien estructuradas. Especializado en JavaScript, React, React Native, Node.js, PostgreSQL y TypeScript.</p>
+<p>🚀 Me desempeño como Full Stack Developer, participando activamente en el desarrollo de interfaces funcionales, mantenimiento de arquitectura escalable y optimización de backend para mejorar el rendimiento de las aplicaciones.</p>
+<p>🛠️ Experiencia sólida en integración de APIs, desarrollo con arquitectura modular, uso de control de versiones (Git), trabajo bajo metodologías Ágiles (SCRUM) y diseño de UI con Figma.</p>
+<p>✅ Me enfoco en aportar soluciones limpias, eficientes y orientadas al usuario, priorizando buenas prácticas de desarrollo y la calidad del producto final.</p>
+<p>🤝 Abierto a nuevas oportunidades donde pueda seguir aprendiendo, aportar valor y colaborar con equipos enfocados en la mejora continua, podes contactarme a través de:</p>
 
+<a href="https://www.linkedin.com/in/legal-brian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:legalbriandev@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Tech Skills
 <p>
@@ -25,13 +28,4 @@
   <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-316192?style=for-the-badge&logo=sequelize&logoColor=blue" />
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-## ¿Donde encontrarme?
-<p>
-<p>Si estás interesado en mi trabajo y te gustaría discutir una posible colaboración, no dudes en visitar mi perfil profesional en LinkedIn para obtener más información sobre mi experiencia y habilidades. También puedes contactarme por correo electrónico o WhatsApp para hablar sobre un proyecto o una oportunidad laboral. ¡Espero tener noticias tuyas pronto y trabajar juntos en el futuro!</p>
-
-<a href="https://www.linkedin.com/in/legal-brian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:legalbriandev@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://api.whatsapp.com/send?phone=541136853167" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
